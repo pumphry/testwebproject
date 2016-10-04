@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pumphry/testwebproject/issues"
   },
-  "homepage": "https://github.com/pumphry/testwebproject#readme"
+  "homepage": "https://github.com/pumphry/testwebproject#readme",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
 }
