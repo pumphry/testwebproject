@@ -1,0 +1,24 @@
+{
+  "name": "testwebproject",
+  "version": "1.0.0",
+  "description": "\"Test project I made for working on scripting, testing plugins, etc.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumphry/testwebproject.git"
+  },
+  "keywords": [
+    "Test",
+    "Project",
+    "Website"
+  ],
+  "author": "Alexander John Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pumphry/testwebproject/issues"
+  },
+  "homepage": "https://github.com/pumphry/testwebproject#readme"
+}
